@@ -1,0 +1,24 @@
+#include <stdio.h>
+int main()
+{
+int x = 20;
+if (x == 20)
+   {
+     printf("x vale 20\n");
+   }
+   else if(x==30)
+       {
+        printf("x vale 30\n");
+       }
+   else if (x==40);
+       {
+         printf("x vale 40\n");
+       }
+     else
+        
+{
+        }
+  printf("Esto se ejecutara siempre");
+ 
+return 0;
+}
