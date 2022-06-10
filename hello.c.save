@@ -1,0 +1,6 @@
+#include<stdio.n>
+int maion
+{
+prinf("Hello Word\n");
+return 0;
+}
